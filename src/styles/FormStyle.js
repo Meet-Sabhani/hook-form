@@ -18,8 +18,13 @@ export const FormStyle = styled.div`
     label {
       font-size: 2rem;
     }
+    input {
+      padding: 10px;
+      font-size: 16px;
+    }
     button {
       background-color: green;
+      color: #fff;
       padding: 10px 15px;
       border: none;
       border-radius: 10px;
